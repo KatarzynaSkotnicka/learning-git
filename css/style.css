@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&subset=latin-ext");
-.test { display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
+.srest { display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
 
 .testprefix { -webkit-column-count: 4; column-count: 4; }
 
